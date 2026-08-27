@@ -39,14 +39,10 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <!-- Stats com cache e sem count_private para evitar erro de token -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Baumann&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&cache_seconds=3600" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Baumann&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=3600" height="150" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <!-- Streak alternativa (demolab às vezes fora) — deixe vazio se não carregar, não quebra o layout -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Baumann&theme=dracula&hide_border=true" height="150" alt="Streak" />
+  <!-- Cards confiáveis (vercel do stats estava 503) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Baumann&theme=dracula" height="150" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Baumann&theme=dracula" height="150" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Baumann&theme=dracula" height="150" alt="Details" />
 </div>
 
 ---
@@ -55,14 +51,16 @@
 
 <div align="center">
 
-<!-- Pins: se não carregar, GitHub mostra link mesmo assim — sem imagem quebrada -->
-<a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=done-flow&theme=dracula&hide_border=true&cache_seconds=3600" alt="done-flow" /></a>
-
-<a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Site-para-adocao-de-animais&theme=dracula&hide_border=true&cache_seconds=3600" alt="Site para adoção" /></a>
-
-<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Job-Auto-Fit&theme=dracula&hide_border=true&cache_seconds=3600" alt="Job-Auto-Fit" /></a>
+<!-- Pins antigos quebravam (vercel 503) — substituído por badges confiáveis -->
+<a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://img.shields.io/badge/done--flow-React_Native-61DAFB?style=for-the-badge&logo=react" alt="done-flow" /></a>
+<a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://img.shields.io/badge/Site_Adocao-React_TS-3178C6?style=for-the-badge&logo=typescript" alt="Site para adoção" /></a>
+<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://img.shields.io/badge/Job--Auto--Fit-Python-3776AB?style=for-the-badge&logo=python" alt="Job-Auto-Fit" /></a>
 
 </div>
+
+<p align="center">
+<a href="https://github.com/Lucas-Baumann/done-flow">done-flow</a> • <a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais">Site para adoção</a> • <a href="https://github.com/Lucas-Baumann/Job-Auto-Fit">Job-Auto-Fit</a>
+</p>
 
 <!-- Seções de foto dos projetos: deixe vazias por enquanto. Me avise se tiver screenshots/GIFs e eu adiciono:
   - done-flow: docs/demo.gif
