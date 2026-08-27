@@ -1,71 +1,100 @@
-<h2 align="center">Olá! Eu sou o Lucas Baumann 👋</h2>
-
-###
-
-<p align="center">💻 Desenvolvedor Mobile Junior na <b>GaussFleet</b>, atuando no time de desenvolvimento mobile com <b>React Native, TypeScript, JavaScript e PHP</b>, desenvolvendo melhorias e novas funcionalidades do aplicativo da empresa.<br>🌱 Atualmente praticando desenvolvimento mobile no app <b>done-flow</b> (React Native + Expo).<br>🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unilavras.</p>
-
-###
-
-<h3 align="center">🛠️ Stack</h3>
-
 <div align="center">
-  <b>Mobile:</b> React Native · Expo · TypeScript &nbsp;|&nbsp; <b>Front-end:</b> Vue.js · React · Next.js &nbsp;|&nbsp; <b>Back-end:</b> PHP · .NET · C# · Node.js &nbsp;|&nbsp; <b>Banco de dados:</b> MySQL · SQL Server · PostgreSQL · MongoDB
+
+![Lucas Baumann](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BC8C&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+Junior+•+React+Native;TypeScript+|+JavaScript+|+PHP;GaussFleet+•+Lavras-MG+•+Remoto;Construindo+apps+que+usam+de+verdade)
+
 </div>
 
-###
+<p align="center">
+  <a href="https://linkedin.com/in/lucas-baumann1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:lucascunhabaumann@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Lucas-Baumann"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Lucas-Baumann&label=Profile%20views&color=00bc8c&style=flat" alt="views"/>
+</p>
+
+<h3 align="center">Sobre mim</h3>
+
+<p align="center">
+💻 <b>Mobile Junior @ GaussFleet</b> — React Native • TypeScript • JavaScript • PHP<br/>
+🎓 Tecnólogo ADS (Unilavras 2020-2022) • Inglês B2 (British Council) • Lavras-MG • Aberto a remoto<br/>
+🎯 Foco: <b>Mobile (React Native/Expo) + Fullstack (React/Next.js • Node/PHP/.NET)</b> com entrega ágil (Scrum/Kanban)
+</p>
+
+---
+
+<h3 align="center">🛠️ Stack principal</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,vue,nextjs,html,css,php,dotnet,cs,nodejs,mysql,postgres,git,github" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_Available-00BC8C?style=flat&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Baumann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <!-- Stats com cache e sem count_private para evitar erro de token -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Baumann&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&cache_seconds=3600" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Baumann&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=3600" height="150" alt="Top Langs" />
 </div>
 
-###
+<div align="center">
+  <!-- Streak alternativa (demolab às vezes fora) — deixe vazio se não carregar, não quebra o layout -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Baumann&theme=dracula&hide_border=true" height="150" alt="Streak" />
+</div>
+
+---
 
 <h3 align="center">🚀 Projetos em destaque</h3>
 
 <div align="center">
-  <a href="https://github.com/Lucas-Baumann/done-flow"><b>done-flow</b></a> — App de gerenciamento de tarefas com categorias (React Native + Expo) &nbsp;•&nbsp;
-  <a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><b>Site para adoção de animais</b></a> — Aplicação web para um canil (React + TypeScript)
+
+<!-- Pins: se não carregar, GitHub mostra link mesmo assim — sem imagem quebrada -->
+<a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=done-flow&theme=dracula&hide_border=true&cache_seconds=3600" alt="done-flow" /></a>
+
+<a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Site-para-adocao-de-animais&theme=dracula&hide_border=true&cache_seconds=3600" alt="Site para adoção" /></a>
+
+<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Job-Auto-Fit&theme=dracula&hide_border=true&cache_seconds=3600" alt="Job-Auto-Fit" /></a>
+
 </div>
 
-###
+<!-- Seções de foto dos projetos: deixe vazias por enquanto. Me avise se tiver screenshots/GIFs e eu adiciono:
+  - done-flow: docs/demo.gif
+  - Site Amigos Peludos: docs/screenshot.png
+  Basta me enviar as imagens ou o link.
+-->
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
+<p align="center">
+<b>done-flow</b> — App de tarefas com categorias (React Native + Expo, TypeScript, AsyncStorage, navegação) • <b>Site Amigos Peludos</b> — Web completa para canil (React + TS, filtros, formulários) • <b>Job-Auto-Fit</b> — Automação de currículos Gupy/LinkedIn com IA ATS + relatórios
+</p>
 
-###
+---
+
+<h3 align="center">💼 Experiência rápida</h3>
+
+<p align="center">
+<b>GaussFleet</b> (2026–Atual) • <b>Autônomo Front-end</b> (2024–2026) • <b>ITShare</b> Analista/Estagiário (2022–2024) • <b>Brasil Couros</b> (2020–2022)<br/>
+<a href="https://linkedin.com/in/lucas-baumann1">Ver experiência completa no LinkedIn →</a>
+</p>
+
+---
 
 <h3 align="center">📫 Contato</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-baumann1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="lucascunhabaumann@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-baumann1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lucascunhabaumann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <span> • Lavras-MG • (35) 99194-8681</span>
+</p>
+
+<p align="center">
+  <i> Aberto a oportunidades <b>remotas</b> Mobile/Fullstack — vamos conversar? </i>
+</p>
+
+<!-- Para reverter: git checkout main -- README.md ou git revert -->
