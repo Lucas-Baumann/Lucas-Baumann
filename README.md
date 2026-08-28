@@ -24,7 +24,7 @@
 <h3 align="center">🛠️ Stack principal</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,vue,nextjs,html,css,php,dotnet,cs,nodejs,mysql,postgres,git,github" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,js,vue,nextjs,html,css,php,dotnet,cs,nodejs,mysql,postgres,git,github" /></a>
 </p>
 
 <p align="center">
