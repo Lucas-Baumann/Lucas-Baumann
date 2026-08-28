@@ -29,12 +29,9 @@
 <h3 align="center">📊 Resumo</h3>
 
 <div align="center">
-  <!-- Contadores corretos via API GitHub (dynamic/json) -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLucas-Baumann&query=%24.public_repos&label=Repos%20públicos&color=00BC8C&style=flat" alt="Repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLucas-Baumann&query=%24.followers&label=Seguidores&color=00BC8C&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Lucas-Baumann?affiliations=OWNER&style=flat&color=00BC8C&label=Estrelas" alt="Stars" />
-  <br/>
-  <sub>Atualizado via API GitHub • <a href="https://api.github.com/users/Lucas-Baumann">api.github.com/users/Lucas-Baumann</a></sub>
+  <img src="https://img.shields.io/badge/Repos%20p%C3%BAblicos-10-00BC8C?style=flat" alt="Repos" />
+  <img src="https://img.shields.io/github/followers/Lucas-Baumann?label=Seguidores&style=flat&color=00BC8C" alt="Seguidores" />
+  <img src="https://img.shields.io/badge/Estrelas-4-00BC8C?style=flat" alt="Estrelas" />
 </div>
 
 ---
@@ -43,10 +40,9 @@
 
 <div align="center">
 
-<!-- Pins dinâmicos corretos (github-readme-stats) — carregam estrelas/linguagem automaticamente -->
-<a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=done-flow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BC8C&icon_color=00BC8C" alt="done-flow" /></a>
-<a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Site-para-adocao-de-animais&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BC8C&icon_color=00BC8C" alt="Site Adoção" /></a>
-<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Job-Auto-Fit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BC8C&icon_color=00BC8C" alt="Job-Auto-Fit" /></a>
+<a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://img.shields.io/badge/done--flow-React%20Native-61DAFB?style=for-the-badge&logo=react" alt="done-flow" /></a>
+<a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://img.shields.io/badge/Site%20Ado%C3%A7%C3%A3o-React%20TS-3178C6?style=for-the-badge&logo=typescript" alt="Site Adoção" /></a>
+<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://img.shields.io/badge/Job--Auto--Fit-Python-3776AB?style=for-the-badge&logo=python" alt="Job-Auto-Fit" /></a>
 
 </div>
 
@@ -79,11 +75,6 @@
 
 ---
 
-<h3 align="center">🐍 Snake Game — Commits Snake</h3>
-
 <p align="center">
-  <!-- Imagem correta gerada pelo Platane/snk — output em output/github-contribution-grid-snake.svg -->
   <img src="https://raw.githubusercontent.com/Lucas-Baumann/Lucas-Baumann/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-  <br>
-  <sub>Gerado automaticamente via GitHub Actions (meia-noite UTC) — workflow <code>.github/workflows/snake.yml</code>. Se não aparecer, vá em <b>Settings → Actions → General → Allow all actions</b> e rode <b>Run workflow</b> manualmente.</sub>
 </p>
