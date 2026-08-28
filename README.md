@@ -87,4 +87,4 @@
 
 ---
 
-> Nota: Este é um perfil de exemplo. Substitua `Lucas-Baumann` pelo seu usuário, `lucas-baumann1` pelo seu LinkedIn, `lucascunhabaumann@gmail.com` pelo seu e-mail, e `99999-9999` pelo seu telefone quando usar no repo `SEU_USUARIO/SEU_USUARIO`. Para o snake game, ative `.github/workflows/snake.yml` em Settings → Actions.
+> Dica: Substitua `Lucas-Baumann` pelo seu usuário, `lucas-baumann1` pelo LinkedIn, `lucascunhabaumann@gmail.com` pelo e-mail quando usar no repo `SEU_USUARIO`. Ative `.github/workflows/snake.yml` em Settings → Actions.
