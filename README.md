@@ -39,8 +39,8 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Baumann&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600&bg_color=0d1117&title_color=00BC8C&icon_color=00BC8C" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Baumann&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&bg_color=0d1117&title_color=00BC8C&text_color=c9d1d9" height="150" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Baumann&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Baumann&theme=tokyonight" height="150" alt="Top Langs" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Baumann&theme=tokyonight&hide_border=true&background=0d1117&ring=00BC8C&currStreakLabel=00BC8C" height="150" alt="Streak" />
 </div>
