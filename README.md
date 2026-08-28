@@ -8,20 +8,20 @@
   <a href="https://linkedin.com/in/lucas-baumann1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lucascunhabaumann@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Lucas-Baumann"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://komarev.com/ghpvc/?username=Lucas-Baumann&label=Profile+views&color=00bc8c&style=flat" alt="views">
+  <img src="https://komarev.com/ghpvc/?username=Lucas-Baumann&label=Profile+views&color=00bc8c&style=flat" alt="Profile views">
 </p>
 
 <h3 align="center">🛠️ Stack principal</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,vue,nextjs,html,css,php,dotnet,cs,nodejs,mysql,postgres,git,github" alt="Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,js,vue,nextjs,html,css,php,dotnet,cs,nodejs,mysql,postgres,git,github" alt="Skills" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_Available-00BC8C?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/REST_API-00BC8C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 ---
@@ -29,20 +29,13 @@
 <h3 align="center">📊 Resumo</h3>
 
 <div align="center">
-  <b>Repos públicos:</b> <img src="https://img.shields.io/github/repos/Lucas-Baumann?style=flat&color=00BC8C" alt="Repos" /> •
-  <b>Estrelas:</b> <img src="https://img.shields.io/github/stars/Lucas-Baumann?style=flat&color=00BC8C" alt="Stars" /> •
-  <b>Commits (últimos 30d):</b> <img src="https://img.shields.io/github/commit-activity/y/Lucas-Baumann?style=flat&color=00BC8C" alt="Commits" />
+  <!-- Contadores corretos via API GitHub (dynamic/json) -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLucas-Baumann&query=%24.public_repos&label=Repos%20públicos&color=00BC8C&style=flat" alt="Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLucas-Baumann&query=%24.followers&label=Seguidores&color=00BC8C&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Lucas-Baumann?affiliations=OWNER&style=flat&color=00BC8C&label=Estrelas" alt="Stars" />
+  <br/>
+  <sub>Atualizado via API GitHub • <a href="https://api.github.com/users/Lucas-Baumann">api.github.com/users/Lucas-Baumann</a></sub>
 </div>
-
----
-
-<h3 align="center">🐍 Snake Game — Commits Snake</h3>
-
-<p align="center">
-  <img src="https://github.com/Lucas-Baumann/Lucas-Baumann/actions/workflows/snake.yml/badge.svg" alt="Snake Game Status">
-  <br>
-  <i>O jogo da cobrinha comendo commits é gerado automaticamente via GitHub Actions (meia-noite UTC). Se a imagem ainda não aparecer, aguarde a primeira execução ou vá em Settings → Actions → Allow all.</i>
-</p>
 
 ---
 
@@ -50,11 +43,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://img.shields.io/badge/done-flow-React_Native-61DAFB?style=for-the-badge&logo=react" alt="done-flow" /></a>
-
-<a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://img.shields.io/badge/Site_Adocao-React_TS-3178C6?style=for-the-badge&logo=typescript" alt="Site Adocao" /></a>
-
-<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://img.shields.io/badge/Job-Auto-Fit-Python-3776AB?style=for-the-badge&logo=python" alt="Job-Auto-Fit" /></a>
+<!-- Pins dinâmicos corretos (github-readme-stats) — carregam estrelas/linguagem automaticamente -->
+<a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=done-flow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BC8C&icon_color=00BC8C" alt="done-flow" /></a>
+<a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Site-para-adocao-de-animais&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BC8C&icon_color=00BC8C" alt="Site Adoção" /></a>
+<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Baumann&repo=Job-Auto-Fit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BC8C&icon_color=00BC8C" alt="Job-Auto-Fit" /></a>
 
 </div>
 
@@ -87,4 +79,11 @@
 
 ---
 
-> Dica: Substitua `Lucas-Baumann` pelo seu usuário, `lucas-baumann1` pelo LinkedIn, `lucascunhabaumann@gmail.com` pelo e-mail quando usar no repo `SEU_USUARIO`. Ative `.github/workflows/snake.yml` em Settings → Actions.
+<h3 align="center">🐍 Snake Game — Commits Snake</h3>
+
+<p align="center">
+  <!-- Imagem correta gerada pelo Platane/snk — output em output/github-contribution-grid-snake.svg -->
+  <img src="https://raw.githubusercontent.com/Lucas-Baumann/Lucas-Baumann/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <br>
+  <sub>Gerado automaticamente via GitHub Actions (meia-noite UTC) — workflow <code>.github/workflows/snake.yml</code>. Se não aparecer, vá em <b>Settings → Actions → General → Allow all actions</b> e rode <b>Run workflow</b> manualmente.</sub>
+</p>
