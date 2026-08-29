@@ -1,6 +1,6 @@
 <div align="center">
 
-![Lucas Baumann](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BC8C&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+Junior+•+React+Native;TypeScript+|+JavaScript+|+PHP;GaussFleet+•+Lavras-MG+•+Remoto;Construindo+apps+que+usam+de+verdade)
+![Lucas Baumann](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BC8C&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+Junior+•+React+Native;TypeScript+|+JavaScript+|+PHP;GaussFleet+•+Lavras-MG+•+Presencial;Construindo+apps+que+usam+de+verdade)
 
 </div>
 
