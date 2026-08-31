@@ -36,8 +36,6 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Baumann&theme=tokyonight" height="150" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Baumann&theme=tokyonight" height="150" alt="Top Langs" />
