@@ -1,12 +1,12 @@
 <div align="center">
 
-![Nome Completo](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BC8C&center=true&vCenter=true&width=600&lines=Desenvolvedor • Python • APIs REST • SQL;JavaScript • Git • Automação;Brasil • Presencial • Disponível;Construindo soluções que funcionam de verdade)
+![Lucas Baumann](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BC8C&center=true&vCenter=true&width=600&lines=Desenvolvedor+Mobile+Junior+•+React+Native;TypeScript+|+JavaScript+|+PHP;GaussFleet+•+Lavras-MG+•+Presencial;Construindo+apps+que+usam+de+verdade)
 
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/lucas-baumann1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucascunhabaumann@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Lucas-Baumann"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=Lucas-Baumann&label=Profile+views&color=00bc8c&style=flat" alt="Profile views">
 </p>
@@ -14,7 +14,7 @@
 <h3 align="center">🛠️ Stack principal</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,css,dotnet,git,github,html,js,mysql,nextjs,nodejs,php,postgres,py,react,ts,vue" alt="Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,js,vue,nextjs,html,css,php,dotnet,cs,nodejs,mysql,postgres,git,github" alt="Skills" /></a>
 </p>
 
 <p align="center">
@@ -31,12 +31,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Repos%20p%C3%BAblicos-10-00BC8C?style=flat" alt="Repos" />
   <img src="https://img.shields.io/github/followers/Lucas-Baumann?label=Seguidores&style=flat&color=00BC8C" alt="Seguidores" />
-  <img src="https://img.shields.io/badge/Estrelas-5-00BC8C?style=flat" alt="Estrelas" />
+  <img src="https://img.shields.io/badge/Estrelas-4-00BC8C?style=flat" alt="Estrelas" />
 </div>
 
 ---
-
-<h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Baumann&theme=tokyonight" height="150" alt="GitHub Stats" />
@@ -58,8 +56,7 @@
 </div>
 
 <p align="center">
-  <b>done-flow</b> — App de tarefas com categorias (React Native + Expo, TypeScript) • <b>Site Amigos Peludos</b> — Web completa para canil (React + TS, filtros, formulários) • <b>Job-Auto-Fit</b> — Automação de currículos Gupy/LinkedIn com IA + relatórios<br/>
-  <sub>Projeto de exemplo 1 • Projeto de exemplo 2</sub>
+  <b>done-flow</b> — App de tarefas com categorias (React Native + Expo, TypeScript) • <b>Site Amigos Peludos</b> — Web completa para canil (React + TS, filtros, formulários) • <b>Job-Auto-Fit</b> — Automação de currículos Gupy/LinkedIn com IA + relatórios
 </p>
 
 ---
@@ -67,8 +64,8 @@
 <h3 align="center">💼 Experiência rápida</h3>
 
 <p align="center">
-  Empresa Exemplo · Desenvolvedor · 2020–Atual<br/>
-  <a href="https://linkedin.com/in/seu-perfil">LinkedIn →</a>
+  <b>GaussFleet</b> (2026–Atual) • <b>Autônomo Front-end</b> (2024–2026) • <b>ITShare</b> Analista/Estagiário (2022–2024) • <b>Brasil Couros</b> (2020–2022)<br/>
+  <a href="https://linkedin.com/in/lucas-baumann1">LinkedIn →</a>
 </p>
 
 ---
@@ -76,13 +73,13 @@
 <h3 align="center">📫 Contato</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <span> • Brasil • (00) 00000-0000</span>
+  <a href="https://www.linkedin.com/in/lucas-baumann1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lucascunhabaumann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <span> • Lavras-MG • (35) 99194-8681</span>
 </p>
 
 <p align="center">
-  <i>Desenvolvedor com experiência em Python, APIs REST e SQL, focado em automação e soluções eficientes.</i>
+  <i>Aberto a oportunidades remotas Mobile/Fullstack — vamos conversar?</i>
 </p>
 
 ---
