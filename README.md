@@ -51,7 +51,7 @@
 
 <a href="https://github.com/Lucas-Baumann/done-flow"><img src="https://img.shields.io/badge/done--flow-React%20Native-61DAFB?style=for-the-badge&logo=react" alt="done-flow" /></a>
 <a href="https://github.com/Lucas-Baumann/Site-para-adocao-de-animais"><img src="https://img.shields.io/badge/Site%20Ado%C3%A7%C3%A3o-React%20TS-3178C6?style=for-the-badge&logo=typescript" alt="Site Adoção" /></a>
-<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://img.shields.io/badge/Job--Auto--Fit-Python-3776AB?style=for-the-badge&logo=python" alt="Job-Auto-Fit" /></a>
+<a href="https://github.com/Lucas-Baumann/Job-Auto-Fit"><img src="https://img.shields.io/badge/Job--Auto--Fit-Python-3776AB?style=for-the-badge&logo=python" alt="VampHunter" /></a>
 
 </div>
 
