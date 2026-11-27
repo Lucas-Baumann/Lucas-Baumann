@@ -56,7 +56,7 @@
 | :--- | :--- | :--- | :--- |
 | **[done-flow](https://github.com/Lucas-Baumann/done-flow)** | App mobile de gerenciamento de tarefas com categorias e armazenamento local offline-first. | `React Native` `Expo` `TypeScript` `SQLite` | [Código](https://github.com/Lucas-Baumann/done-flow) |
 | **[VampHunter](https://github.com/Lucas-Baumann/VampHunter)** | Automação inteligente de busca de vagas em 9 plataformas + otimização de currículos para ATS (GUI & CLI). | `Python` `GUI / CLI` `ATS / IA` | [Código](https://github.com/Lucas-Baumann/VampHunter) |
-| **[Site Amigos Peludos](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais)** | Aplicação web completa para canil de adoção com galeria de pets, página de doações e contato. | `React` `TypeScript` `Vite` `Tailwind` | [Código](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais) |
+| **[Site Amigos Peludos](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais)** | Aplicação web completa para canil de adoção com galeria de pets, página de doações e contato. | `React` `TypeScript` `Vite` `Tailwind` | [Código](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais) · [Demo ▶](https://lucas-baumann.github.io/Site-para-adocao-de-animais/) |
 | **[DUST BOX](https://github.com/Lucas-Baumann/dust-box)** | *Castelo da Poeira Eterna* — Jogo incremental / idle RPG textual em ASCII rodando direto no navegador. | `JavaScript` `HTML/CSS` `ASCII` | [Código](https://github.com/Lucas-Baumann/dust-box) · [Jogar ▶](https://lucas-baumann.github.io/dust-box/) |
 
 ---

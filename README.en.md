@@ -56,7 +56,7 @@
 | :--- | :--- | :--- | :--- |
 | **[done-flow](https://github.com/Lucas-Baumann/done-flow)** | Mobile task manager with custom categories and offline-first local storage. | `React Native` `Expo` `TypeScript` `SQLite` | [Code](https://github.com/Lucas-Baumann/done-flow) |
 | **[VampHunter](https://github.com/Lucas-Baumann/VampHunter)** | Smart job search automation across 9 platforms + ATS resume optimization (GUI & CLI). | `Python` `GUI / CLI` `ATS / AI` | [Code](https://github.com/Lucas-Baumann/VampHunter) |
-| **[Amigos Peludos](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais)** | Full web app for an animal shelter featuring an adoption gallery, donations, and contact form. | `React` `TypeScript` `Vite` `Tailwind` | [Code](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais) |
+| **[Amigos Peludos](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais)** | Full web app for an animal shelter featuring an adoption gallery, donations, and contact form. | `React` `TypeScript` `Vite` `Tailwind` | [Code](https://github.com/Lucas-Baumann/Site-para-adocao-de-animais) · [Demo ▶](https://lucas-baumann.github.io/Site-para-adocao-de-animais/) |
 | **[DUST BOX](https://github.com/Lucas-Baumann/dust-box)** | *Castelo da Poeira Eterna* — Text-based ASCII incremental / idle RPG playable right in the browser. | `JavaScript` `HTML/CSS` `ASCII` | [Code](https://github.com/Lucas-Baumann/dust-box) · [Play ▶](https://lucas-baumann.github.io/dust-box/) |
 
 ---
